@@ -1,7 +1,6 @@
 # Qwen3 Ollama Demo
 
-This repository contains a simple demonstration of using the `ollama` command
-line tool to interact with the Qwen3 model. Two small Gradio apps are provided:
+This repository contains a simple demonstration of using the `ollama` command line tool to interact with the Qwen3 model. Two small Gradio apps are provided:
 
 * **Reasoning Demo** – toggles between `/think` and `/no_think` modes.
 * **Multilingual Demo** – translates prompts into different languages.
